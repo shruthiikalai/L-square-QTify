@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
-import Search from './components/Search/Search';
+//import Search from './components/Search/Search';
 import './App.css';
 
 function App() {
