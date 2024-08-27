@@ -42,7 +42,8 @@ function Card({ data, type }) {
             </div>
           </div>
           <div className={styles.titleWrapper}>
-            <p>{title}</p>
+          <p>{title}</p>
+          <p>{songs}</p>
           </div>
         </div>
       );
